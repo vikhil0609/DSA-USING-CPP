@@ -60,7 +60,6 @@ void display(){
 
 int main(){
 	int choice;
-
 	do{
 		cout << "1.insert\n2.delete\n3.display\n4.exit\n";
 		cout << "ENTER THE CHOICE:" << endl;
